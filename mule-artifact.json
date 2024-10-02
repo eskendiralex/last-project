@@ -1,0 +1,7 @@
+{
+  "minMuleVersion": "4.7.0",
+  "javaSpecificationVersions": [
+    "17"
+  ],
+  "secureProperties": ["enc.key","client_id","client_secret"]
+}
