@@ -40,16 +40,6 @@
 				        <Note>hello there</Note>
 				      </properties>
 				    </cloudHubDeployment>
-				<sharedLibraries>
-						<sharedLibrary>
-							<groupId>com.mycompany</groupId>
-							<artifactId>ojdbc8</artifactId>
-						</sharedLibrary>
-						<sharedLibrary>
-							<groupId>mysql</groupId>
-							<artifactId>mysql-connector-java</artifactId>
-						</sharedLibrary>
-					</sharedLibraries>
 				</configuration>
 			</plugin>
 			<plugin>
